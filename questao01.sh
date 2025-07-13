@@ -1,6 +1,4 @@
 #!/bin/bash
 
-### Nao apague a linha acima! ###
-
-
-uijuihjui
+cd ~
+mkdir joao maria
