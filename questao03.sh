@@ -1,3 +1,3 @@
 #!/bin/bash
-cd ~/maria
-cp /etc/passwd /etc/group .
+cd ~/maria                 
+sudo cp /etc/passwd /etc/group .  
