@@ -1,3 +1,3 @@
 #!/bin/bash
 cd ~/joao
-cp -r /etc/systemd .
+sudo cp -r /etc/systemd .
